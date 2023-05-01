@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/samtagert/natours#readme",
   "dependencies": {
-    "node-sass": "^4.12.0"
+    "node-sass": "^8.0.0"
   }
 }
